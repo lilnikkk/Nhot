@@ -6,7 +6,7 @@ module.exports = {
   Website: "https://Discord-MusicBot.xbotx.repl.co",
   SupportServer: "https://discord.gg/5uzB8bN6NV",
   Token: process.env.Token,
-  ClientID: "878943787949371003",
+  ClientID: "",
   ClientSecret: process.env.Discord_ClientSecret,
   Scopes: ["identify", "guilds", "applications.commands"],
   CallbackURL: "/api/callback",
