@@ -17,9 +17,9 @@ module.exports = {
   Permissions: 2205280576,
   Lavalink: {
     id: "Main",
-    host: "lavalink_v3.muzykant.xyz",
-    port: 443,
-    pass: "https://discord.gg/v6sdrD9kPh",
+    host: "lava-all.ajieblogs.eu.org",
+    port: 80,
+    pass: "https://dsc.gg/ajidevserver",
     secure: true,
   },
   Spotify: {
