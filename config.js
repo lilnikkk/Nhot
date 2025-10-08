@@ -17,10 +17,10 @@ module.exports = {
   Permissions: 2205280576,
   Lavalink: {
     id: "Main",
-    host: "lavalinkv4.serenetia.com",
-    port: 80,
-    pass: "https://dsc.gg/ajidevserver",
-    secure: false,
+    host: "lavalink_v3.muzykant.xyz",
+    port: 443,
+    pass: "https://discord.gg/v6sdrD9kPh",
+    secure: true,
   },
   Spotify: {
     ClientID: process.env.Spotify_ClientID || "bf5ee2a72bae40ffadc71a47280e5ff9",
