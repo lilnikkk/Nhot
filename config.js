@@ -17,7 +17,7 @@ module.exports = {
   Permissions: 2205280576,
   Lavalink: {
     id: "Main",
-    host: "lavalink.serenetia.com",
+    host: "lavalinkv4.serenetia.com",
     port: 80,
     pass: "https://dsc.gg/ajidevserver",
     secure: false,
