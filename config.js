@@ -1,7 +1,7 @@
 module.exports = {
   Admins: ["645753735225802752"],
   ExpressServer: true,
-  DefaultPrefix: "4",
+  DefaultPrefix: "+",
   Port: 3000,
   Website: "https://Discord-MusicBot.xbotx.repl.co",
   SupportServer: "https://discord.gg/5uzB8bN6NV",
